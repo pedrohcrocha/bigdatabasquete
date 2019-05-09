@@ -1,0 +1,10 @@
+name: index
+title:
+username:
+account: bigdatabasquete
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 916669
+bundleId: 2068328
+url: https://bigdatabasquete.shinyapps.io/index/
+when: 1557281925.18812
