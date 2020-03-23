@@ -6,4 +6,4 @@ Nele, é possível conferir os dados das temporadas 2017/2018, 2016/2017 e 2015/
 
 A seção TOP-10 apresenta os 10 primeiros jogadores, em ordem descrecente, para cada estatística selecionada.
 
-Para acessar o Shiny App: https://bigdatabasquete.shinyapps.io/index/
+Para acessar o Shiny App: https://bigdatabasquete.shinyapps.io/BigDataBasquete/
